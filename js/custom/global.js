@@ -7,6 +7,7 @@
     }
   }
   
+  
 
   function maybePrefixUrlField() {
     if (this.value.trim() !== "" && this.value.indexOf("http") !== 0) {
