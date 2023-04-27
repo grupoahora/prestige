@@ -6,7 +6,6 @@
       element.attachEvent("on" + event, handler);
     }
   }
-
   
 
   function maybePrefixUrlField() {
