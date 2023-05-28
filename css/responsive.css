@@ -2780,7 +2780,7 @@ Very common low res
 */
 @media (max-width: 479px) {
 
-	html, body {	font-size: 12px; }
+	html, body {	font-size: 18px; }
 	h1 { font-size:2.5em; }		/* 30px */
 	h2 { font-size:2em; }		/* 24px */
 	h3 { font-size:1.5em; }
